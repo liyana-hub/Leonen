@@ -1,0 +1,133 @@
+Game Title: emel 
+Yr/Section: 2A
+
+
+
+Hero Object 1: Layla  
+Attributes:
+- Type: Marksman  
+- Cost: 3200 Battle Points  
+- Wall Penetration: No  
+- Damage (0-50m): 125-150  
+- Attack Speed: 1.0  
+- Reserve: 10/20
+
+Methods:
+- Ranged Attacks  
+- Basic Attacks Focus  
+- Scaling Damage with Items  
+- Targeting Enemies from a Distance  
+- Area Control with Ultimate Ability
+
+
+
+Hero Object 2: Alucard*  
+Attributes:
+- Type: Fighter  
+- Cost: 3200 Battle Points  
+- Wall Penetration: No  
+- Damage (0-50m): 160-220  
+- Attack Speed: 1.2  
+- Reserve: 12/24
+
+Methods:
+- Lifesteal through Basic Attacks  
+- Positioning and Pursuit  
+- Aggressive Fights  
+- Targeting Backlines  
+- Chain Combo (Skill + Basic Attacks)
+
+
+
+Hero Object 3: Gusion  
+Attributes:
+- Type: Assassin  
+- Cost: 3200 Battle Points  
+- Wall Penetration: No  
+- Damage (0-50m): 200-250  
+- Attack Speed: 1.5  
+- Reserve: 10/20
+
+Methods:
+- Quick Assassinations  
+- Mobile and High Burst Damage  
+- Combo with Skills (Basic + Ultimate)  
+- Flanking  
+- Stealth Approaches
+
+
+Hero Object 4: Miya  
+Attributes:
+- Type: Marksman  
+- Cost: 2400 Battle Points  
+- Wall Penetration: No  
+- Damage (0-30m): 120-160  
+- Attack Speed: 1.1  
+- Reserve: 14/28
+
+Methods:
+- Auto Attacks Focus  
+- Scaling Damage with Attack Speed  
+- Kiting and Positioning  
+- Jungle Farming Efficiently  
+- Area Damage with Ultimate
+
+
+
+Hero Object 5: Chou 
+Attributes:
+- Type: Fighter  
+- Cost: 3200 Battle Points  
+- Wall Penetration: No  
+- Damage (0-15m): 160-200  
+- Damage (15-50m): 120-140  
+- Reserve: 10/20  
+- Firing Modes: N/A  
+
+Methods:
+- Crowd Control Focus  
+- Combo with Abilities (Skill + Ultimate)  
+- Tanking and Frontline Aggression  
+- Knockback Initiation  
+- Objective Control with Skill Usage
+
+
+
+Hero Object 6: Lancelot  
+Attributes:
+- Type: Assassin  
+- Cost: 3200 Battle Points  
+- Wall Penetration: No  
+- Damage (0-20m): 180-250  
+- Attack Speed: 1.3  
+- Reserve: 12/24  
+- Mobility: High  
+
+Methods:
+- Quick Burst Damage  
+- Escape and Evasion  
+- Flanking and Surprise Attacks  
+- Combo with Skills for Maximum Damage  
+- Scaling Power through Items
+
+
+
+Hero Object 7: Leomord 
+Attributes:
+- Type: Fighter/Tank  
+- Cost: 3200 Battle Points  
+- Wall Penetration: No  
+- Damage (0-10m): 200-300  
+- Damage (10-15m): 160-220  
+- Damage (15-50m): 120-160  
+- Reserve: 12/24  
+- Mobility: Moderate  
+
+Methods:
+- Close-Range Dominance  
+- Initiating Team Fights  
+- Ultimate Combo for Extra Damage  
+- Tanking for Team  
+- Control Over Objectives with Horse Form
+
+
